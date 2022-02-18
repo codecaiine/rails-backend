@@ -2,6 +2,10 @@
 
 In this project, a new rails app was generated as an api-only app. An API endpoint was created for a randomly generated greeting  and this endpoint was used in the Hello-React-Frontend app.
 
+## Front-end App
+
+This is the [link](hhttps://github.com/codecaiine/react-frontend.git) to the Front-end app.
+
 
 ## Getting Started
 

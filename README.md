@@ -24,10 +24,6 @@ In this project, a new rails app was generated as an api-only app. An API endpoi
 
 - Ruby On Rails
 
-## Version Control System
-
-- Git
-
 ## Author
 
 👤 **Yannick-Noel Aka**

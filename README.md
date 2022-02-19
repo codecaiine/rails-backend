@@ -4,7 +4,7 @@ In this project, a new rails app was generated as an api-only app. An API endpoi
 
 ## Front-end App
 
-This is the [link](hhttps://github.com/codecaiine/react-frontend.git) to the Front-end app.
+This is the [link](https://github.com/codecaiine/react-frontend.git) to the Front-end app.
 
 
 ## Getting Started

@@ -1,24 +1,48 @@
-# README
+# Hello-Rails-Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, a new rails app was generated as an api-only app. An API endpoint was created for a randomly generated greeting  and this endpoint was used in the Hello-React-Frontend app.
 
-Things you may want to cover:
+## Front-end App
 
-* Ruby version
+This is the [link](https://github.com/codecaiine/react-frontend.git) to the Front-end app.
 
-* System dependencies
 
-* Configuration
+## Getting Started
 
-* Database creation
+- Install rails  
+  `gem install rails`
 
-* Database initialization
+- Clone this repository
+  `git clone https://github.com/codecaiine/rails-backend.git` 
 
-* How to run the test suite
+- Navigate to the repository by running
+  `cd Hello-Rails-Backend`.
 
-* Services (job queues, cache servers, search engines, etc.)
+- Run `bundle install` 
 
-* Deployment instructions
+- Run `rails db:create`, `rails db:migrate`, and `rails db:seed`  
 
-* ...
+- Run `rails s` and go to http:localhost:3000 to view the app.
+
+## Built With
+
+- Ruby On Rails
+
+## Author
+
+👤 **Yannick-Noel Aka**
+
+- GitHub: [@codecaiine](https://github.com/codecaiine/)
+
+- LinkedIn: [Yannick-Noel Aka](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/codecaiine/rails-backend/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
